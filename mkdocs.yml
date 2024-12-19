@@ -38,6 +38,17 @@ extra:
       link: https://github.com/bbkb-community/bbkb-community.github.io
 nav:
   - Welcome: index.md
-  - Computers: computers/index.md
-  - Keyboards: keyboards/index.md
-  - Inactive Projects: inactive-projects/index.md
+  - Computers:
+    - computers/index.md
+    - HackberryPi by Zitao: computers/hackberrypi.md
+    - Colorberry by Alex: computers/colorberry.md
+    - T-Deck by LILYGO: computers/t-deck.md
+    - Beepis by HackMods: computers/beepis.md
+  - Keyboards:
+    - keyboards/index.md
+    - BB Keyboards by Zitao: keyboards/bb_keyboards_zitao.md
+    - T-Keyboard by LILYGO: keyboards/t-keyboard.md
+  - Inactive Projects:
+    - inactive-projects/index.md
+    - Beepy by SQFMI: inactive-projects/beepy.md
+    - BBQ20KBD by Solder Party: inactive-projects/bbq20kbd.md
