@@ -50,3 +50,27 @@ With the Q10 PMOD board, all the ingredients were in place for widespread use of
   </figure>
 
 </div>
+
+## Articles & Videos
+
+<div class="grid cards" markdown>
+
+-   :fontawesome-regular-newspaper:{ .lg .middle } **Gizmodo**, *31 March 2023*
+
+    [Now You Can Use a BlackBerry Keyboard With Your PC](https://perma.cc/8R5F-MD8W)
+
+-   :fontawesome-regular-newspaper:{ .lg .middle } **Liliputing**, *31 March 2023*
+
+    [This $30 accessory lets you use a BlackBerry keyboard with your PC (or any other device)](https://perma.cc/NB7L-JLST)
+
+-   :fontawesome-brands-youtube:{ .lg .middle } **Page Telegram**, *27 June 2022* (2m55s video)
+
+    [BB10 BlackBerry Q20 keyboard mod on a modern Android (USB)](https://www.youtube.com/watch?v=blvobI4z0MI) 
+
+-   :fontawesome-brands-youtube:{ .lg .middle } **@MORAZOK**, *23 April 2023* (8m34s video)
+
+    [BlackBerryQ20 Keyboard](https://www.youtube.com/watch?v=Vfl4yhY-O5g)
+    
+    In Japanese. Auto-translated subtitles are available.
+
+</div>
