@@ -63,6 +63,10 @@ With the Q10 PMOD board, all the ingredients were in place for widespread use of
 
     [This $30 accessory lets you use a BlackBerry keyboard with your PC (or any other device)](https://perma.cc/NB7L-JLST)
 
+-   :fontawesome-regular-newspaper:{ .lg .middle } **Tindie Blog**, *27 March 2023*
+
+    [BB Q20 Keyboard and Trackpad](https://blog.tindie.com/2023/03/bb-q20-keyboard-and-trackpad/)
+
 -   :fontawesome-brands-youtube:{ .lg .middle } **Page Telegram**, *27 June 2022* (2m55s video)
 
     [BB10 BlackBerry Q20 keyboard mod on a modern Android (USB)](https://www.youtube.com/watch?v=blvobI4z0MI) 
