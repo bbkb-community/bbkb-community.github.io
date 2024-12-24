@@ -27,7 +27,7 @@
 </div>
 
 <figure markdown="span">
-  ![T-Keyboard](../images/bbq20kbd.png){ width="300" loading=lazy }
+  ![BBQ20KBD](../images/bbq20kbd.png){ width="300" loading=lazy }
 </figure>
 
 </div>
