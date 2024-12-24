@@ -10,7 +10,7 @@ The ColorBerry is based on the [Beepy by SQFMI](../inactive-projects/beepy.md), 
 
 The drivers required for the JDI display are closed source: they are developed by Alex and published as binaries. These drivers are working well out of the box, with no significant problems reported on the Discord channel. But future updates to these drivers are dependent on the efforts of a single developer. This closes off the possibility that new developers could "pick up the torch" and continue development in the future, as has happened with lots of software developed for the original Beepy.
 
-## Articles and Videos
+## Articles & Videos
 
 <div class="grid cards" markdown>
 

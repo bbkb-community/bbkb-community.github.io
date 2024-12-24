@@ -4,7 +4,7 @@
 
 --8<-- "beepis.md"
 
-## History
+## Description
 
 Beepis is being designed and created by HackMods, a hacker collective specialized in hardware. It is based on the original [Beepy by SQFMI](../inactive-projects/beepy.md) hardware with "a ton of new features, much-needed bugfixes, and a heap of small improvements". The HackMods team is releasing all their work as open source—hardware, firmware and software—thereby maintaining the open source philosophy of the original Beepy device and its [BBQ20KBD predecessor](../inactive-projects/bbq20kbd.md).
 
