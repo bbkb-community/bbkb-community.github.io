@@ -4,8 +4,17 @@
 
 --8<-- "t-deck.md"
 
-## Articles & Videos
 
+## Description
+
+If you're looking to put a general purpose computer in your pocket, this is not the one for you. The T-Deck and T-Deck Plus by LILYGO distinguish themselves from the other computers listed here by their processor: an [Espressif ESP32-S3](https://www.espressif.com/en/products/socs/esp32-s3) system on a chip (SoC). This is a low-power energy-efficient microcontroller, and the software running on your T-Deck must be a specialized firmware developed specifically for this chip. You can't install a Linux distribution on this device, like you would with a general purpose single-board computer (SBC) like a Raspberry Pi.
+
+But if you're looking to play with LoRa and [Meshtastic](https://meshtastic.org/) ("an open source, off-grid, decentralized, mesh network" used to send short messages between devices), you'll be in good company with a T-Deck. You'll find many Meshtastic enthusiasts in the articles and videos below describing their setup with a T-Deck. As of the end of 2024, this is still not quite a consumer-grade device. The firmware options are in active development and rough around the edges, and you'll probably be spending time configuring beta releases and dealing with some known bugs. For some of us, that experience is part of the charm.
+
+Beyond LoRa and Meshtastic, the T-Deck can also serve as a dev kit for folks writing software for an ESP32 with a keyboard and a screen. It's a great hardware form factor, and the ESP32 is a versatile platform for systems programming. Examples of projects targeting the T-Deck as a hardware platform include the [T-Deck uLisp Machine](http://www.ulisp.com/show?4JAO) and an [MS-DOS emulator](https://www.hackster.io/news/chen-liang-is-turning-a-lilygo-t-deck-into-the-world-s-cutest-ibm-compatible-complete-with-windows-dd937d6da5cc).
+
+
+## Articles & Videos
 
 ### Launch Coverage
 
