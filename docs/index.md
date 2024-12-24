@@ -5,7 +5,7 @@
 <div class="grid cards" markdown style="grid-template-columns: repeat(auto-fit, minmax(min(100%, 8rem), 1fr));">
 <ul>
 
-  <a href="computers/hackberrypi" class="grid">
+  <a href="computers/hackberrypi/" class="grid">
     <li class="card">
       <figure markdown="span">
         <img src="images/hackberrypi_q10.png" alt="HackberryPi Q10" style="height: 75px;">
@@ -14,7 +14,7 @@
     </li>
   </a>
 
-  <a href="computers/colorberry" class="grid">
+  <a href="computers/colorberry/" class="grid">
     <li class="card">
       <figure markdown="span">
         <img src="images/colorberry.png" alt="ColorBerry" style="height: 75px;">
@@ -23,7 +23,7 @@
     </li>
   </a>
 
-  <a href="computers/t-deck" class="grid">
+  <a href="computers/t-deck/" class="grid">
     <li class="card">
       <figure markdown="span">
         <img src="images/t-deck_plus.png" alt="T-Deck Plus" style="height: 75px;">
@@ -32,7 +32,7 @@
     </li>
   </a>
 
-  <a href="computers/beepis" class="grid">
+  <a href="computers/beepis/" class="grid">
     <li class="card">
       <figure markdown="span">
         <img src="images/beepis_pcb_back.png" alt="Beepis PCB: back side" style="height: 75px;">
@@ -49,7 +49,7 @@
 <div class="grid cards" markdown style="grid-template-columns: repeat(auto-fit, minmax(min(100%, 8rem), 1fr));">
 <ul>
 
-  <a href="keyboards/bb_keyboards_zitao" class="grid">
+  <a href="keyboards/bb_keyboards_zitao/" class="grid">
     <li class="card">
       <figure markdown="span">
         <img src="images/bbq20_keyboard_zitao.png" alt="BBQ20 Keyboard" style="height: 75px;">
@@ -58,7 +58,7 @@
     </li>
   </a>
 
-  <a href="keyboards/t-keyboard" class="grid">
+  <a href="keyboards/t-keyboard/" class="grid">
     <li class="card">
       <figure markdown="span">
         <img src="images/t-keyboard.png" alt="T-Keyboard" style="height: 75px;">
