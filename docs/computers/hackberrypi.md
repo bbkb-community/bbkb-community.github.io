@@ -5,6 +5,15 @@
 --8<-- "hackberrypi.md"
 
 
+## Description
+
+The HackberryPi is presently the most fully-featured handheld computer with a BB keyboard. It has a square 4-inch display with 720x720 pixels. It was first developed with a Raspberry Pi Zero 2 W, although more recently a much more powerful version was released featuring a Raspberry Pi 4B. Users have run many operating systems on the HackberryPi, including RaspberryPi OS, Kali, DietPi and RetroPi. Although the software options are plentiful, the hardware and firmware are closed source—so it is not the most extensible device.
+
+With the flick of a toggle switch, the HackberryPi's keyboard and mouse will act as a generic USB device. You can then connect it via USB to control another device, just like Zitao's [BB Keyboards](../keyboards/bb_keyboards_zitao.md).
+
+If you're after a HackberryPi, the hardest part may be buying one. New stock is dropped roughly once a month, with the exact date and time announced in the **#stock-announcement** channel on [![Discord: ZitaoTech](https://img.shields.io/badge/Discord-ZitaoTech-null?logo=discord&logoColor=FFFFFF&labelColor=5865F2&color=555555)](https://discord.gg/WzPthAmMbP). Setting notifications for this channel will ensure you're the first to know when the next batch will be released. But you'll have to act quickly, because they typically sell out in less than 10 minutes.
+
+
 ## Articles & Videos
 
 ### Launch Coverage
