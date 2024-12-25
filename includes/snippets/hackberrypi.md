@@ -4,7 +4,7 @@
 
 - Compute Board:
     - ![Raspberry Pi Zero 2 W](https://img.shields.io/badge/Raspberry_Pi-Zero_2_W-555555?logo=raspberrypi&logoColor=FFFFFF&labelColor=A22846)
-    - ![Raspberry Pi 4B](https://img.shields.io/badge/Raspberry_Pi-4 Model B_(coming_soon)-555555?logo=raspberrypi&logoColor=FFFFFF&labelColor=A22846)
+    - ![Raspberry Pi 4B](https://img.shields.io/badge/Raspberry_Pi-4 Model B-555555?logo=raspberrypi&logoColor=FFFFFF&labelColor=A22846)
 - Keyboard:
 ![Q20](https://img.shields.io/badge/Q20-null?logo=blackberry&logoColor=FFFFFF&color=000000)
 ![Q10](https://img.shields.io/badge/Q10-null?logo=blackberry&logoColor=FFFFFF&color=000000)
